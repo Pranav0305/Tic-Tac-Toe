@@ -16,7 +16,7 @@ To get a local copy of the project, follow these steps
 
 * Clone the project
 ```
-https://github.com/Pranav0305/Tic-Tac-Toe.git
+git clone https://github.com/Pranav0305/Tic-Tac-Toe.git
 ```
 
 * Run the following command to execute the program
