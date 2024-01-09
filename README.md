@@ -14,13 +14,12 @@ This is a simple tic-tac-toe game developed using Python and the tkinter module.
 ## Getting Started
 To get a local copy of the project, follow these steps
 
-### Installation
-Clone the project
+* Clone the project
 ```
 https://github.com/Pranav0305/Tic-Tac-Toe.git
 ```
 
-Run the following command to execute the program
+* Run the following command to execute the program
 ```
 python Main.py
 ```
