@@ -3,7 +3,7 @@ Python based tic-tac-toe with GUI and tkinter. The player can play this game aga
 
 ## About the Project
 ---
-  ![2](https://github.com/Pranav0305/Tic-Tac-Toe/assets/119056415/9fe7f6f6-76e3-48dd-a213-84a2929c3c82)   ![3](https://github.com/Pranav0305/Tic-Tac-Toe/assets/119056415/23a0547b-88af-4e8a-a1c8-efd0bec59617)  
+  ![2](https://github.com/Pranav0305/Tic-Tac-Toe/assets/119056415/9fe7f6f6-76e3-48dd-a213-84a2929c3c82)   
 
 This is a simple tic-tac-toe game developed using Python and the tkinter module. It is mind relaxing and a pretty fun game.
 
